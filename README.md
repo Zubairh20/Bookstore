@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bookstore Project
 
 ***Program Functionality***
 
